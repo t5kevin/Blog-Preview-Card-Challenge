@@ -1,0 +1,68 @@
+*{
+    font-size: 16px;
+    font-family: Figtree;
+}
+
+body {
+    background-color: hsl(47, 88%, 63%);
+}
+
+.TextMargin {
+    margin-left: 10px;
+}
+
+.Image img {
+    border-radius: 10px;
+    margin: 10px 10px 10px 10px;
+}
+
+.Learning {
+    font-weight: bold;
+    padding: 6px 12px 6px 12px;
+    background-color:hsl(47, 88%, 63%);
+    float: left;
+    border-radius: 5px;
+}
+
+.Published {
+    font-size: 13px;
+    color: #171717;
+    margin: 7px 0px 18px;
+}
+
+.Foundations {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.WholeShebang {
+    border: black solid 2px;
+    border-radius: 10px;
+    position: fixed;
+    box-shadow: 10px 5px;
+    margin: auto;
+    background-color: white;
+}
+
+.Filler {
+    line-height: 21.5px;
+}
+
+.GregImage {
+    height: 35px;
+}
+
+.HoopName {
+    float: right;
+    padding-top: 7px;
+    padding-right: 200px;
+    font-weight: bold;
+}
+
+.AnotherShebang {
+    width: 50%;
+    margin: auto;
+    height: 50%;
+    display: block;
+}
+
